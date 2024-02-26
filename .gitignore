@@ -12,6 +12,9 @@ README_OLD.txt
 # testing
 /coverage
 
+# old version
+/v1
+
 # production
 /build
 
